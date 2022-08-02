@@ -1,16 +1,19 @@
-### Hi there 👋
+# 🎼 Hi! I don't know what I'm doing 👌🏻
 
-<!--
-**illogicalsong/illogicalsong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+No, really, I don't. Please, someone, tell me what is going on.
 
-Here are some ideas to get you started:
+- Started learning Java and making plugins around August 2021
+- Run a minecraft server, which is currently under re-construction 
+- Have staffed, worked on, and ran servers since MC version 1.5 
+- I use intelliJ
+- I use Maven, don't know how to use Gradle yet
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🖥 Some cool places to check out that I like
+- [PurpurMC](https://github.com/PurpurMC/Purpur)
+- [PurpurExtras](https://github.com/PurpurMC/PurpurExtras)
+- [Pl3xMap](https://github.com/BillyGalbreath/Pl3xMap) *v2 under construction!*
+- [CommandWhitelist](https://github.com/YouHaveTrouble/CommandWhitelist)
+
+___
+
+[☕Ko-Fi](https://ko-fi.com/illogicalrhythmic) | [⌨ Discord] -future link here-
