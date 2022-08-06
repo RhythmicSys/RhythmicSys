@@ -16,4 +16,4 @@ No, really, I don't. Please, someone, tell me what is going on.
 
 ___
 
-[☕Ko-Fi](https://ko-fi.com/illogicalrhythmic) | [⌨ Discord] -future link here-
+[☕Ko-Fi](https://ko-fi.com/illogicalrhythmic) | [⌨ Discord](https://discord.gg/qe3YQrbegA)
