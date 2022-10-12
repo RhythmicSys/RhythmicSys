@@ -16,4 +16,7 @@ No, really, I don't. Please, someone, tell me what is going on.
 
 ___
 
-[☕Ko-Fi](https://ko-fi.com/illogicalrhythmic) | [⌨ Discord](https://discord.gg/qe3YQrbegA)
+[![Discord](https://img.shields.io/badge/Discord-join-7289DA?logo=discord&logoColor=7289DA&style=flat-square)](https://discord.gg/qe3YQrbegA)
+[![Ko-Fi Support Link](https://img.shields.io/badge/Ko--fi-donate-FF5E5B?logo=ko-fi&style=flat-square)](https://ko-fi.com/illogicalrhythmic)
+
+[![@rhythmicsys's Holopin board](https://holopin.me/rhythmicsys)](https://holopin.io/@rhythmicsys)
