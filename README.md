@@ -12,6 +12,7 @@ No, really, I don't. Please, someone, tell me what is going on.
 - I use Maven mostly
 
 ## 🖥 Some cool places to check out that I like
+- [Modrinth](https://modrinth.com/user/Rhythmic) <sup>(This is the site I publish stuff on now)</sup>
 - [PurpurMC](https://github.com/PurpurMC/Purpur)
 - [PurpurExtras](https://github.com/PurpurMC/PurpurExtras)
 - [Pl3xMap](https://github.com/BillyGalbreath/Pl3xMap) *v2 under construction!*
