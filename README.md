@@ -2,11 +2,14 @@
 
 No, really, I don't. Please, someone, tell me what is going on.
 
+[![Discord](https://img.shields.io/badge/Discord-join-7289DA?logo=discord&logoColor=7289DA&style=flat-square)](https://discord.gg/qe3YQrbegA)
+[![Ko-Fi Support Link](https://img.shields.io/badge/Ko--fi-donate-FF5E5B?logo=ko-fi&style=flat-square)](https://ko-fi.com/illogicalrhythmic)
+
 - Started learning Java and making plugins around August 2021
 - Run a minecraft server, which is currently under re-construction 
 - Have staffed, worked on, and ran servers since MC version 1.5 
 - I use intelliJ
-- I use Maven, don't know how to use Gradle yet
+- I use Maven mostly
 
 ## 🖥 Some cool places to check out that I like
 - [PurpurMC](https://github.com/PurpurMC/Purpur)
@@ -15,8 +18,5 @@ No, really, I don't. Please, someone, tell me what is going on.
 - [CommandWhitelist](https://github.com/YouHaveTrouble/CommandWhitelist)
 
 ___
-
-[![Discord](https://img.shields.io/badge/Discord-join-7289DA?logo=discord&logoColor=7289DA&style=flat-square)](https://discord.gg/qe3YQrbegA)
-[![Ko-Fi Support Link](https://img.shields.io/badge/Ko--fi-donate-FF5E5B?logo=ko-fi&style=flat-square)](https://ko-fi.com/illogicalrhythmic)
 
 [![@rhythmicsys's Holopin board](https://holopin.me/rhythmicsys)](https://holopin.io/@rhythmicsys)
