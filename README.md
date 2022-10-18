@@ -4,6 +4,7 @@ No, really, I don't. Please, someone, tell me what is going on.
 
 [![Discord](https://img.shields.io/badge/Discord-join-7289DA?logo=discord&logoColor=7289DA&style=flat-square)](https://discord.gg/qe3YQrbegA)
 [![Ko-Fi Support Link](https://img.shields.io/badge/Ko--fi-donate-FF5E5B?logo=ko-fi&style=flat-square)](https://ko-fi.com/illogicalrhythmic)
+[![wakatime](https://wakatime.com/badge/user/bf4f6f62-0e88-4b6f-8363-aac43611fe08.svg?style=flat-square)](https://wakatime.com/@bf4f6f62-0e88-4b6f-8363-aac43611fe08)
 
 - Started learning Java and making plugins around August 2021
 - Run a minecraft server, which is currently under re-construction 
