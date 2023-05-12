@@ -1,14 +1,14 @@
 # 🎵 Hi! I'm Rhythmic
 
-I'm a Minecraft plugin developer with a passion for customization and accessibility. As someone with ADHD, I approach plugin development in a chaotic and random way that often leads to unique and innovative solutions. 
+I'm a Minecraft plugin developer with a passion for customization and accessibility. 
 
 - 💻 I work on Purpur, a fork of Paper that focuses on customization and features. Check it out [here](https://github.com/PurpurMC/Purpur).
-- 👨‍💻 I'm one of the owners of [ADHDMC](https://github.com/ADHDMC), an organization dedicated to developing plugins and resources for Minecraft servers
+- 👨‍💻 I'm one of the owners of [Simplexity Development](https://github.com/Simplexity-Development), an organization dedicated to developing plugins and resources for Minecraft servers
 - 🎨 My most successful projects include:
-    - [High Contrast Extended](https://github.com/ADHDMC/High_Contrast_Extended): a Minecraft resource pack that extends the default high-contrast pack to the rest of the game.
-    - [Entity Icons](https://github.com/ADHDMC/Entity-Icons): a free resource that has icons of every mob in the game, open for anyone who wants to use icons in their mods, plugins, datapacks, or similar things.
-    - [VillagerInfo](https://github.com/ADHDMC/VillagerInfo): a Minecraft plugin that shows useful information about villagers, that is usually only available through admin commands. Currently being rewritten on [VillagerInfo-Rewrite](https://github.com/ADHDMC/VillagerInfo-Rewrite).
-    - [Scythe](https://github.com/ADHDMC/Scythe): a Minecraft plugin that allows for auto-replanting, and right-click harvest on crops.
+    - [High Contrast Extended](https://github.com/Simplexity-Development/High_Contrast_Extended): a Minecraft resource pack that extends the default high-contrast pack to the rest of the game.
+    - [Entity Icons](https://github.com/Simplexity-Development/Entity-Icons): a free resource that has icons of every mob in the game, open for anyone who wants to use icons in their mods, plugins, datapacks, or similar things.
+    - [VillagerInfo](https://github.com/Simplexity-Development/VillagerInfo): a Minecraft plugin that shows useful information about villagers, that is usually only available through admin commands. Currently being rewritten on [VillagerInfo-Rewrite](https://github.com/Simplexity-Development/VillagerInfo-Rewrite).
+    - [Scythe](https://github.com/Simplexity-Development/Scythe): a Minecraft plugin that allows for auto-replanting, and right-click harvest on crops.
 - 📝 Some other projects I recommend looking at:
     - [Modrinth](https://modrinth.com/user/Rhythmic): This is where I publish my projects, downloading from here supports me as they have a creator fund.
     - [PurpurExtras](https://github.com/PurpurMC/PurpurExtras): A plugin that adds features that have been requested for Purpur that would be better executed as a plugin
