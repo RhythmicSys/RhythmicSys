@@ -20,9 +20,6 @@ I'm a Minecraft plugin developer with a passion for customization and accessibil
 <br>[![wakatime](https://wakatime.com/badge/user/bf4f6f62-0e88-4b6f-8363-aac43611fe08.svg?style=flat-square)](https://wakatime.com/@bf4f6f62-0e88-4b6f-8363-aac43611fe08)
 [![Discord](https://img.shields.io/badge/Discord-join-7289DA?logo=discord&logoColor=7289DA&style=flat-square)](https://discord.gg/qe3YQrbegA)
 
-## 🌟 My Stats
-![Rhythmic's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhythmicsys&show_icons=true&theme=react)
-
 ## 📈 My Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhythmicsys&layout=compact&theme=react&hide_progress=true)
 
