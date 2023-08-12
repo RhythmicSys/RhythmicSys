@@ -5,7 +5,7 @@
 ### 🎨 My most successful projects include:
   - [High Contrast Extended](https://github.com/Simplexity-Development/High_Contrast_Extended): a Minecraft resource pack that extends the default high-contrast pack to the rest of the game.
   - [Entity Icons](https://github.com/Simplexity-Development/Entity-Icons): a free resource that has icons of every mob in the game, open for anyone who wants to use icons in their mods, plugins, datapacks, or similar things.
-  - [VillagerInfo](https://github.com/Simplexity-Development/VillagerInfo): a Minecraft plugin that shows useful information about villagers, that is usually only available through admin commands. Currently being rewritten on [VillagerInfo-Rewrite](https://github.com/Simplexity-Development/VillagerInfo-Rewrite).
+  - [VillagerInfo](https://github.com/Simplexity-Development/VillagerInfo): a Minecraft plugin that shows useful information about villagers, that is usually only available through admin commands.
   - [Scythe](https://github.com/Simplexity-Development/Scythe): a Minecraft plugin that allows for auto-replanting, and right-click harvest on crops.
 
 ### 📝 Some other projects I recommend looking at:
