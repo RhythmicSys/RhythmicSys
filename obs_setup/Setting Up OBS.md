@@ -50,6 +50,7 @@ And then remove the tick mark from the track you don't want it to be on. This af
 ## Adding Custom Docks
 
 To add custom docks, you basically just need a link. I like to add my mod actions and quick actions from twitch so I don't have to go on twitch to do stuff or look at history. How to do this (with twitch stuff) is to go to the stream manager
+
 ![](2025-05-13_14-34_1.png)
 
 hit the 3 dots on whatever thing you want to add to your OBS docks, and scroll to where it says 'pop out (thing)'
@@ -65,6 +66,7 @@ Then on OBS you're gonna click the button that says 'Docks' (next to view and pr
 ![](Pasted%20image%2020250513153035.png)
 
 Then you click 'custom browser docks'
+
 ![](2025-05-13_14-40.png)
 
 Then you add a name and the url for the dock
@@ -143,28 +145,33 @@ You'll want to set the mode to 'specific window', and then checkmark 'allow tran
 
 ## Uh other things to know:
 
-**Studio mode**
-- Studio mode allows you to make changes to your layout, or switch scenes without it being changed on the stream immediately. 
+#### Studio mode:
+- Studio mode allows you to make changes to your layout, or switch scenes without it being changed on the stream immediately.
+
 ![](Pasted%20image%2020250513171456.png)
 
-**Looping back audio**
+#### Looping back audio:
 Click the settings icon on the audio source you wanna hear, and then under 'audio monitoring' set it to whatever you want it to be set to.  
+
 ![](Pasted%20image%2020250513171537.png)
+
 ![](Pasted%20image%2020250513171616.png)
 
-**You can use a scene as a source**
+#### You can use a scene as a source:
+
 This is useful if you wanna set up your audio in one scene so it can be used in different scenes and don't wanna set it all up separately or something - or if you're insane like me and have a bunch of weird scenes that are redeemable
 
 ![](Pasted%20image%2020250513171743.png)
 
-**Audio mixer bar is your friend, but also don't trust it too much**
+#### Audio mixer bar is your friend, but also don't trust it too much
+
 ![](Pasted%20image%2020250513171844.png)
 
 Audio mixer bar is very useful for having a quick reference at how loud things are - but the red bar is not really accurate - idk they don't make sense to me
 
-**OBS Plugins**
+#### OBS Plugins:
 There's thousands of plugins for OBS for things, if you like to automate stuff, [Advanced Scene Switcher](https://obsproject.com/forum/resources/advanced-scene-switcher.395/) is super amazing, you're able to make customizable macros for stuff
 
 [Media Playlist Source](https://obsproject.com/forum/resources/media-playlist-source.1765/) is also a good one
 
-https://obsproject.com/forum/resources/
+You can find plugins [Here](https://obsproject.com/forum/resources/)
