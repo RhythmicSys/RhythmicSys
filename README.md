@@ -1,41 +1,72 @@
-# 🎵 Hi! I'm Rhythmic
-### I'm mostly a Minecraft plugin developer who makes stuff for customization and accessibility. 
-- 💻 I work on Purpur, a fork of Paper that focuses on customization and features. Check it out [here](https://github.com/PurpurMC/Purpur).
-- 👨‍💻 I'm the owner and head developer of [Simplexity Development](https://github.com/Simplexity-Development), an organization dedicated mostly to developing plugins and resources for Minecraft servers
-### 🎨 My most successful projects include:
-  - [High Contrast Extended](https://github.com/Simplexity-Development/High_Contrast_Extended): a Minecraft resource pack that extends the default high-contrast pack to the rest of the game.
-  - [Entity Icons](https://github.com/Simplexity-Development/Entity-Icons): a free resource that has icons of every mob in the game, open for anyone who wants to use icons in their mods, plugins, datapacks, or similar things.
-  - [VillagerInfo](https://github.com/Simplexity-Development/VillagerInfo): a Minecraft plugin that shows useful information about villagers, that is usually only available through admin commands.
-  - [Scythe](https://github.com/Simplexity-Development/Scythe): a Minecraft plugin that allows for auto-replanting, and right-click harvest on crops.
+# Hullo, I'm Rhythmic 👋
+### Software Developer | Accessibility Focused | Disabled Nerd
 
-### 📝 Some other projects I recommend looking at:
-- [Modrinth](https://modrinth.com/user/Rhythmic): This is where I publish my projects, downloading from here supports me as they have a creator fund.
-- [PurpurExtras](https://github.com/PurpurMC/PurpurExtras): A plugin that adds features that have been requested for Purpur that would be better executed as a plugin
-- [PurpurPacks](https://github.com/PurpurMC/PurpurPacks) Datapacks that are items that have been requested for Purpur, or would fit it's theme, but work better as datapacks
-- [Pl3xMap](https://github.com/BillyGalbreath/Pl3xMap) *~~v2~~ v3 under construction!* A lightweight online map that matches the in-game map style<br>
-- [CommandWhitelist](https://github.com/YouHaveTrouble/CommandWhitelist) A plugin that gives you the ability to only whitelist certain commands to be used, as many plugins do not properly assign commands to permissions, and people see many commands in their tabcomplete list that they actually cannot use
+I’m a remote software developer with 4+ years of experience in Java and open-source contributions, and over 10 years of experience in online community management.  
+My work is focused around customization, accessibility, and community-driven development.
+I also enjoy writing guides and tutorials to make technical concepts easier for others to understand.
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/qe3YQrbegA) 
+## Stuff I do
+- **[Purpur](https://github.com/PurpurMC/Purpur)** (Contributor):
+  - I contribute to a Paper fork used on over [16,000](https://purpurmc.org/docs/purpur/#bstats) servers worldwide - adding increased customization and features.
+- **Simplexity Development** (Founder & Lead):
+  - Managing an organization with over 90 repositories and over 40 published projects on Modrinth.
+- **Community Management:** 
+  - Currently volunteering as a Community Manager for a discord server with over 8,000 members
+  - I have participated in many community management/moderation roles over the course of the last 10 years, helping servers and online communities to remain safe and enjoyable for everyone.
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=RhythmicSys&theme=bear&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RhythmicSys&theme=bear&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## Some of the projects I'm proud of
+- [High Contrast Extended](https://github.com/Simplexity-Development/High_Contrast_Extended)  
+  - Accessibility-focused resource pack extending Minecraft’s high-contrast visuals across the entire game.
+- [VillagerInfo](https://github.com/Simplexity-Development/VillagerInfo)  
+  - Plugin providing vital villager data normally hidden behind admin commands, improving accessibility for players.
+- [Scythe](https://github.com/Simplexity-Development/Scythe)  
+  - Plugin for automatic replanting and simplified harvesting, reducing grind and improving gameplay.
+- [Entity Icons](https://github.com/Simplexity-Development/Entity-Icons)  
+  - A complete icon set of all Minecraft mobs, free for use in mods, plugins, and datapacks.
+- [Custom Model Data Guide](https://github.com/Simplexity-Development/Custom_Model_Data_Guide)
+  - A popular resource for learning how to use Custom Model Data in Minecraft - Over 50 stars on GitHub.
+- [PurpurPacks](https://github.com/PurpurMC/PurpurPacks)
+  - 40+ datapacks fitting Purpur’s theme.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RhythmicSys&theme=chalk&no-frame=false&no-bg=false&margin-w=4)
+## Some numbers
+- Over 1,400 hours of active coding logged since 2022 (Time logged via [Wakatime](https://wakatime.com/@RhythmicSys)).
+- Over 400 GitHub contributions in the last year alone.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=RhythmicSys&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+## Tech Stack
+
+![java, python, html, css, mysql](https://skillicons.dev/icons?i=java,python,html,css,mysql)
+<br>![git, github, github actions, maven, gradle](https://skillicons.dev/icons?i=git,github,githubactions,maven,gradle)
+<br>![intellij, pycharm, android studio, vscode, webstorm](https://skillicons.dev/icons?i=idea,pycharm,androidstudio,visualstudio,webstorm)
+<br>![obsidian, notion, figma, aws, docker](https://skillicons.dev/icons?i=obsidian,notion,figma,aws,docker)
+<br>![windows, linux, ubuntu, raspberry pi, debian](https://skillicons.dev/icons?i=windows,linux,ubuntu,raspberrypi,debian)
+
+
+**Additional APIs and Libraries I'm familiar with:** 
+
+- Json
+- Gson
+- SnakeYAML
+- slf4j
+- Twitch API 
+
+
+## Find me here!
+<a href="https://discord.gg/qe3YQrbegA"><img src="https://raw.githubusercontent.com/Simplexity-Development/.github/main/organization_resources/assets/discord-assets/discord_240x240.png" alt="Discord logo in a pixel-art style" height=64></a>
+<a href="https://ko-fi.com/simple_dev"><img src="https://raw.githubusercontent.com/Simplexity-Development/.github/main/organization_resources/assets/discord-assets/kofi_240x240.png" alt="Ko-Fi logo in a pixel-art style" height=64></a>
+<a href="https://modrinth.com/organization/simplexity"><img src="https://raw.githubusercontent.com/Simplexity-Development/.github/main/organization_resources/assets/discord-assets/modrinth_button_240x240.png" alt="Modrinth logo in a pixel-art style" height=64></a>
+
+> [!Note]
+>
+> Open to part-time, contract, or commission roles in Java development. Especially for accessibility-focused software, or open-source collaboration.
+> 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=RhythmicSys&icon=1&color=0)](https://visitcount.itsvg.in)
 
-## 💰 You can help me by Donating
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://ko-fi.com/E1E8DZGDF) 
+<details>
+  <summary>📊 GitHub Stats (for devs)</summary>
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+![](https://github-readme-streak-stats.herokuapp.com/?user=RhythmicSys&theme=bear&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RhythmicSys&theme=bear&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
+![](https://github-profile-trophy.vercel.app/?username=RhythmicSys&theme=chalk&no-frame=false&no-bg=false&margin-w=4)  
+![](https://github-contributor-stats.vercel.app/api?username=RhythmicSys&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+</details>
